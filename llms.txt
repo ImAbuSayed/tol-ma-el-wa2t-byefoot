@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور الليل في قلبي، لا تغيب
+> أنا روحي معاك، والوقت عجيب
+> طيفك في عيوني دايم قريب
+> نبض الغرام في قلبي لهيب
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
