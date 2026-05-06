@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 30, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/tol-ma-el-wa2t-byefoot/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Apply for Music License: Tol Ma El Wa2t Byefoot](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
